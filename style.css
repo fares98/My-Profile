@@ -274,7 +274,7 @@ body{
 /*=========================== End Section about ==========================*/
 /*======================== Start Section My Projects =======================*/
 .projects{
-  background: url('../img/back-1.jpg') fixed;
+  background: url('Code Academy/img/back-1.jpg') fixed;
   background-size: cover;
   margin-top: 5%
 }
@@ -388,7 +388,7 @@ span.slider__arrows__previous:hover img{
 /*==================== End The Slider ====================*/
 /*========================= Start Section Contact ========================*/
 .contact{
-  background: url('../img/back-4.jpg') fixed;
+  background: url('Code Academy/img/back-4.jpg') fixed;
   background-size: cover;
   color: #dfe6e9;
 }
