@@ -3,11 +3,11 @@ var right = document.getElementById("next"),
   first = document.getElementById("first"),
   i = 0;
 
-var arrayImg = ['img/img(1).jpg', 'img/img(2).jpg',
-                'img/img(3).jpg', 'img/img(4).jpg',
-                'img/img(5).jpg', 'img/img(6).jpg',
-                'img/img(7).jpg', 'img/img(8).jpg',
-                'img/img(9).jpg', 'img/img(10).jpg'];
+var arrayImg = ['Code Academy/img/img(1).jpg', 'Code Academy/img/img(2).jpg',
+                'Code Academy/img/img(3).jpg', 'Code Academy/img/img(4).jpg',
+                'Code Academy/img/img(5).jpg', 'Code Academy/img/img(6).jpg',
+                'Code Academy/img/img(7).jpg', 'Code Academy/img/img(8).jpg',
+                'Code Academy/img/img(9).jpg', 'Code Academy/img/img(10).jpg'];
 
 
 right.onclick = function () {
