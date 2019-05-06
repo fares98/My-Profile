@@ -54,7 +54,7 @@ right.onclick = function(){
   }else{
     i++
   }
-  first.src = `img/img(${i}).jpg`;  
+  first.src = `Code Academy/img/img(${i}).jpg`;  
 }
 
 
@@ -64,7 +64,7 @@ left.onclick = function(){
   }else{
     i--
   }
-  first.src = `img/img(${i}).jpg`
+  first.src = `Code Academy/img/img(${i}).jpg`
 }
 */
 
